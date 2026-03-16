@@ -1,0 +1,9 @@
+{
+  "dealer": {
+    "id": 1,
+    "name": "City Motors",
+    "location": "Chennai",
+    "rating": 4.5,
+    "contact": "+91 9876543210"
+  }
+}
