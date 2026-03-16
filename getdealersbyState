@@ -1,0 +1,18 @@
+{
+  "dealers": [
+    {
+      "id": 4,
+      "name": "Kansas Auto Mall",
+      "city": "Wichita",
+      "state": "Kansas",
+      "rating": 4.3
+    },
+    {
+      "id": 5,
+      "name": "Sunflower Motors",
+      "city": "Topeka",
+      "state": "Kansas",
+      "rating": 4.6
+    }
+  ]
+}
