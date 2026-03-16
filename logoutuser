@@ -1,0 +1,5 @@
+curl -X GET http://localhost:5000/logout
+
+{
+  "message": "Logout successful"
+}
