@@ -1,0 +1,17 @@
+curl -X GET http://localhost:5000/dealer/1/reviews
+
+{
+  "dealer_id": 1,
+  "reviews": [
+    {
+      "name": "John",
+      "rating": 5,
+      "comment": "Excellent service and smooth buying experience."
+    },
+    {
+      "name": "Priya",
+      "rating": 4,
+      "comment": "Good customer support and quick delivery."
+    }
+  ]
+}
