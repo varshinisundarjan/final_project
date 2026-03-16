@@ -1,0 +1,24 @@
+Run actions/checkout@v3
+Checking out the repository
+Successfully checked out repository
+
+Run actions/setup-python@v4
+Setting up Python 3.9 environment
+Python installed successfully
+
+Run pip install -r requirements.txt
+Collecting django
+Installing collected packages
+Successfully installed django
+
+Run python manage.py test
+Creating test database
+System check identified no issues (0 silenced)
+All tests passed successfully
+
+Run flake8
+No linting errors found
+
+Workflow completed successfully
+
+Job completed successfully
