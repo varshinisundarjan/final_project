@@ -1,0 +1,22 @@
+{
+  "dealers": [
+    {
+      "id": 1,
+      "name": "City Motors",
+      "location": "Chennai",
+      "rating": 4.5
+    },
+    {
+      "id": 2,
+      "name": "Auto World",
+      "location": "Bangalore",
+      "rating": 4.2
+    },
+    {
+      "id": 3,
+      "name": "Premium Cars",
+      "location": "Hyderabad",
+      "rating": 4.7
+    }
+  ]
+}
